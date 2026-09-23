@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   },
   "scripts": {
     "dev": "next dev -p 4000",
@@ -16,7 +16,6 @@
     "serve": "serve -s public/assets -l 4001 --cors"
   },
   "dependencies": {
-    "@notblox/shared": "workspace:*",
     "@radix-ui/react-slot": "^1.1.1",
     "camera-controls": "^2.8.3",
     "class-variance-authority": "^0.7.1",
