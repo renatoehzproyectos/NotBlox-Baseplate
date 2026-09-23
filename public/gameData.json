@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Baseplate",
+    "imageUrl": "/PreviewTestGame.webp",
+    "images": [
+      {
+        "url": "/PreviewTestGame.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "NotBlox Baseplate",
+        "type": "image/webp"
+      }
+    ],
+    "slug": "baseplate",
+    "metaDescription": "Baseplate mode - open world sandbox with your character and phone controller. Play multiplayer in your browser.",
+    "markdown": "## Baseplate Mode\n\nSimple open baseplate world. Spawn with your character, use keyboard or the on-screen phone-style joystick controller on mobile.\n\n### Controls\n- **WASD / Arrow keys**: Move\n- **Space**: Jump\n- **Mouse**: Look around (click to lock)\n- **E**: Interact\n- **Mobile**: Use the joystick GUI\n\nJoin and explore!"
+  }
+]
